@@ -1,3 +1,7 @@
 .equation {
     color: green;
 }
+
+.validation-result {
+    font-weight: bold;
+}
